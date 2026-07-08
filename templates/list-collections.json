@@ -153,7 +153,7 @@
       ],
       "name": "Collection list",
       "settings": {
-        "layout_type": "grid",
+        "layout_type": "editorial",
         "carousel_on_mobile": false,
         "columns": 3,
         "mobile_columns": "2",

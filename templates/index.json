@@ -3871,7 +3871,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Follow us on Instagram</p>",
+            "text": "<p>Follow us on Tik Tok</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -3897,7 +3897,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>@silvercactus_505</p>",
+            "text": "<p>@silvercactusco</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",

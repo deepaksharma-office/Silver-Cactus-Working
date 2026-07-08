@@ -139,7 +139,7 @@
                       "type": "text",
                       "name": "t:names.text",
                       "settings": {
-                        "text": "<p>Handcrafted Southwestern jewelry designed to be treasured for generations.</p>",
+                        "text": "<p>Handcrafted jewelry designed to be treasured for generations.</p>",
                         "width": "fit-content",
                         "max_width": "normal",
                         "alignment": "left",

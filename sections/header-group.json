@@ -115,24 +115,6 @@
     },
     "header_announcements_B8KhFj": {
       "type": "header-announcements",
-      "blocks": {
-        "announcement_kGdBXk": {
-          "type": "_announcement",
-          "settings": {
-            "text": "20% OFF EVERYTHING NEW WEBSITE DROP!",
-            "link": "",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "weight": "",
-            "letter_spacing": "normal",
-            "case": "none"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "announcement_kGdBXk"
-      ],
       "name": "t:names.announcement_bar",
       "settings": {
         "speed": 5,

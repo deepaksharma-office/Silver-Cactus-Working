@@ -124,11 +124,42 @@
         "padding-block-start": 15,
         "padding-block-end": 15
       }
+    },
+    "header_announcements_8Bckeb": {
+      "type": "header-announcements",
+      "blocks": {
+        "announcement_fe7pcr": {
+          "type": "_announcement",
+          "settings": {
+            "text": "Last Summer Sale! 20% OFF EVERYTHING. Automatically applies at checkout!",
+            "link": "",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "weight": "",
+            "letter_spacing": "normal",
+            "case": "none"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "announcement_fe7pcr"
+      ],
+      "name": "t:names.announcement_bar",
+      "settings": {
+        "speed": 5,
+        "section_width": "page-width",
+        "color_scheme": "scheme-5",
+        "divider_width": 0,
+        "padding-block-start": 15,
+        "padding-block-end": 15
+      }
     }
   },
   "order": [
     "header_announcements_9jGBFp",
     "header_section",
-    "header_announcements_B8KhFj"
+    "header_announcements_B8KhFj",
+    "header_announcements_8Bckeb"
   ]
 }

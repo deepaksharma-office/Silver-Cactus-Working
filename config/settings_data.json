@@ -128,6 +128,21 @@
         "type": "shopify://apps/easy-protection/blocks/app/019bd98e-f23b-7940-9d67-37298215ba2e",
         "disabled": false,
         "settings": {}
+      },
+      "2699851813924348007": {
+        "type": "shopify://apps/navidium-protection/blocks/navidium-protection-consent/0127ebe0-a248-4215-97ad-f7db763bd6c8",
+        "disabled": false,
+        "settings": {
+          "show_landing_popup": false,
+          "show_reminder_popup": false,
+          "enablejQuery": true,
+          "product_handle": "shipping-protection",
+          "checkout_section": "navidium",
+          "subtotal_element": "navidium",
+          "click_triggers": "#cart-icon-bubble",
+          "store_checkout_button": "#checkout-button",
+          "custom_css": ""
+        }
       }
     },
     "color_schemes": {
